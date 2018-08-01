@@ -14,9 +14,11 @@
 
 - [Node.js](https://nodejs.org)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Handlebars](https://handlebarsjs.com/)
+- [HBS](https://www.npmjs.com/package/hbs)
 - [Request](https://www.npmjs.com/package/request)
 - [Yargs](https://www.npmjs.com/package/yargs)
-- [Axios (v2 only)](https://www.npmjs.com/package/axios)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ### Steps to deploy this project locally
 
