@@ -11,8 +11,6 @@ hbs.registerPartials(__dirname + '/views/partials')
 
 app.set('view engine', 'hbs');
 
-
-
 // MIDDLEWARE
 // Generates date for server.log file
 app.use((req, res, next) => {
