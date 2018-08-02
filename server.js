@@ -47,7 +47,7 @@ hbs.registerHelper('screamIt', (text) => {
 app.get('/', (req, res) => {
   res.render('home.hbs', {
     pageTitle: 'Home Page',
-    welcomeMessage: 'Fuck You Asshole!'
+    welcomeMessage: 'Welcome to the site!'
   });
 });
 
@@ -61,8 +61,8 @@ app.get('/bad', (req, res) => {
   res.send({
     name: '404',
     errors: [
-      'You Suck',
-      'ID10t'
+      'No Dice',
+      'crashing...'
     ]
   });
 });
