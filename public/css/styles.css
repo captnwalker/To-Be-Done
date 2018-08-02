@@ -1,0 +1,26 @@
+body {
+  background-color: cornsilk;
+  color: darkgreen;
+  font-size: 1.2rem;
+  padding: 1rem 3rem;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+  color: darkgreen;
+  padding-top: .5rem;
+}
+
+/* .nav-tabs {
+  padding-right: 2rem;
+} */
+
+footer {
+  font-style: italic;
+  padding-right: 2rem;
+  background-color: rgb(211, 209, 209);
+}

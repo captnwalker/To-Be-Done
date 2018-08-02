@@ -1,8 +1,8 @@
 # To Be Done
 
-## A "to-do" REST API built in Node with user accounts and authentication
+## A Node Web Server with Handlebars
 
-> lorem lorem lorem
+> An easily customizable web site framework. Simply add content and styling.
 
 ### Link to live web site
 
@@ -18,9 +18,7 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Handlebars](https://handlebarsjs.com/)
 - [HBS](https://www.npmjs.com/package/hbs)
-- [Request](https://www.npmjs.com/package/request)
-- [Yargs](https://www.npmjs.com/package/yargs)
-- [Axios](https://www.npmjs.com/package/axios)
+- [Bootstrap 4.1.3](https://getbootstrap.com/)
 
 ### Steps to deploy this project locally
 
