@@ -6,7 +6,7 @@
 
 ### Link to live web site
 
-[To Be Done]https://to-be-done.herokuapp.com/
+[To Be Done](https://to-be-done.herokuapp.com/)
 
 ### Screenshot of Project
 
